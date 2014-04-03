@@ -6,7 +6,7 @@ https://twitter.com/myprofmakes
 Examples queries via tweet:
 ---
 
-   		 @myprofmakes york gary brewer
+   	 @myprofmakes york gary brewer
 		 @myprofmakes y gary brewer
 		 @myprofmakes gary brewer
 		 @myprofmakes y g brew
@@ -15,6 +15,7 @@ Examples queries via tweet:
 		 @myprofmakes rye mason		     	(returns 2 results)
 
 
+![Alt text](myprof1.png "samples")
 
 Stable and working. Updated periodically. 
 
