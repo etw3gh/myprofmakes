@@ -6,7 +6,6 @@ https://twitter.com/myprofmakes
 Examples queries via tweet:
 ---
 
-     @myprofmakes york gary brewer
 		 @myprofmakes y gary brewer
 		 @myprofmakes gary brewer
 		 @myprofmakes y g brew
