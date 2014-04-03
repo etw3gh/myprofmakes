@@ -19,9 +19,7 @@ Examples queries via tweet:
 
 Stable and working. Updated periodically. 
 
-Needs refactoring. Some minor bugs are present. 
-
-Not all classes and data structures have been provided.
+TODO: fix insert error check bug
 
 Assumes use of TwitterOAuth lib (https://github.com/abraham/twitteroauth)
 and possession of valid application tokens available at dev.twitter.com
