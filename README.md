@@ -1,6 +1,11 @@
 TwitterBot 
 ===============
 
+Note:
+
+  The 2013 Sunshine List was Released at the end of March 2014.
+  It should be up and running before September 2014 with new data.
+
 https://twitter.com/myprofmakes
 
 Examples:
