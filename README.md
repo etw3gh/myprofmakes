@@ -3,16 +3,13 @@ TwitterBot
 
 https://twitter.com/myprofmakes
 
-Examples queries via tweet:
+Examples:
+===
+
+One of our 5 happy users
 ---
 
-		 @myprofmakes y gary brewer
-		 @myprofmakes gary brewer
-		 @myprofmakes y g brew
-
-		 @myprofmakes r dave mason   		(figures out his name is David)
-		 @myprofmakes rye mason		     	(returns 2 results)
-
+![Alt text](dawn.png "dawn.png")
 
 ![Alt text](myprof1.png "samples")
 
