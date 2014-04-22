@@ -11,12 +11,17 @@ https://twitter.com/myprofmakes
 Examples:
 ===
 
-One of our 5 happy users
+Will soon need a second hand count our users
 ---
 
 ![Alt text](dawn.png "dawn.png")
 
 ![Alt text](myprof1.png "samples")
+
+Sample of the more polite hate mail
+---
+
+![Alt text](hatemail.png "hatemail.png")
 
 Stable and working. Updated periodically. 
 
