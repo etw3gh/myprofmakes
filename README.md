@@ -1,10 +1,5 @@
 TwitterBot 
-===============
-
-Note:
-
-  The 2013 Sunshine List was released at the end of March 2014.
-  The Twitter account should be back up and running well before September 2014 with the new data.
+===
 
 https://twitter.com/myprofmakes
 
@@ -18,7 +13,7 @@ Will soon need a second hand count our users
 
 ![Alt text](myprof1.png "samples")
 
-Sample of the more polite hate mail
+Hate mail
 ---
 
 ![Alt text](hatemail.png "hatemail.png")
